@@ -1,4 +1,4 @@
-👋 Hi, I’m @harshverma2002
+👋 Hi, I’m Harsh
 - Interested in Web development, devops, etc.
 - Currently learning Data Structures and Algorithms
 - Looking to collaborate on a Basic Java Project
