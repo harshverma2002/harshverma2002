@@ -1,5 +1,5 @@
 👋 Hi, I’m Harsh
-- Interested in Web development, devops, etc.
-- Currently learning Data Structures and Algorithms
-- Looking to collaborate on a Basic Java Project
+- Interested in Web development,AI/ML, etc.
+- Currently learning JavaScript and React
+- Open to collaborate any FrontEnd Project
 - [Connect with me](https://bio.link/harshverma28)
